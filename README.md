@@ -3,8 +3,11 @@ Sentiment analysis of tweets and its correlation with Stock prices
 ReadMe 
 
 Group name：You Guess 
+
 Section：002
+
 Team Members: Ashik Banger Veerappa, Dipanshu Gurwara, Xiyu Yang, Xinyi Cai
+
 
 The datasets comprised of two: one part is the tweets from twitter that are downloaded from the open NASDAQ website and the stock prices, which are obtained from yahoo finance using web scraping tools. 
 
