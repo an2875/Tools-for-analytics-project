@@ -3,11 +3,8 @@ Sentiment analysis of tweets and its correlation with Stock prices
 ReadMe 
 
 Group name：You Guess 
-
 Section：002
-
 Team Members: Ashik Banger Veerappa, Dipanshu Gurwara, Xiyu Yang, Xinyi Cai
-
 
 The datasets comprised of two: one part is the tweets from twitter that are downloaded from the open NASDAQ website and the stock prices, which are obtained from yahoo finance using web scraping tools. 
 
@@ -26,7 +23,7 @@ We have updated uploaded the data into a pandas dataframe,cleaned the data, remo
 Prediction:
 
 We have used linear regression and random forest approaches to predict the stock prices for the following day. 
-             
+![Linear regression	](Linear regression.png)
 Linear regression						Random forest
 We have compared the two approaches for accuracy and prediction, and have gone with the approach that is more accurate.
 
