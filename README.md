@@ -19,13 +19,14 @@ For the stock market prices of the stocks, we have used the yahoo finance script
 
 ## Data Preprocessing:
 
-We have updated uploaded the data into a pandas dataframe,cleaned the data, removed NaNs and took out the unwanted columns. We did this for AAPL,GOOG stocks for that time frame.
+We have uploaded the data into a pandas dataframe, cleaned the data, removed NaNs and took out the unwanted columns. We did this for AAPL,GOOG stocks for that time frame.
 
 ## Prediction:
 
 We have used linear regression and random forest approaches to predict the stock prices for the following day. 
-![Linear regression	](Linear regression.png)
-Linear regression						Random forest
+![Linear%20Regression.png](attachment:Linear%20Regression.png)
+Linear regression						
+![Random%20Forest.png](attachment:Random%20Forest.png)
 We have compared the two approaches for accuracy and prediction, and have gone with the approach that is more accurate.
 
 ## Results:
