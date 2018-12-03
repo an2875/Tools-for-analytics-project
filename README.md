@@ -10,7 +10,8 @@
 
 By utilizing sentiment analysis to predict stocks prices with respect to twitter feeds. We mainly focus on the technology industry as it’s highly correlated with market fluctuations and hence we pick up Google and Apple as two research objectives to implement our model. We used regression analysis to explore the relationships between tweets and stock prices. 
 
-Regarding the stock prices, we used data visualization tools (plotly) to draw several graphs to present the price of the stock as time goes by. The sentiment analysis generated a dataframe with 9 columns: 8 emotions and the percentage change in stock prices, with date as index numbers. We also drew graphs to present each emotion sentiment with respect to percent change in stocks. 
+Regarding the stock prices, we used data visualization tools (plotly) to draw several graphs to present the price of the stock as time goes by. The sentiment analysis generated a dataframe with 9 columns: 8 emotions and the percentage change in stock prices, with date as index numbers. We also drew graphs to present each emotion sentiment with respect to percent change in stocks.
+
 
 ## Data Sources:
 
@@ -20,6 +21,7 @@ For the stock market prices of the stocks, we have used the yahoo finance script
 ## Data Preprocessing:
 
 We have uploaded the data into a pandas dataframe, cleaned the data, removed NaNs and took out the unwanted columns. We did this for AAPL,GOOG stocks for that time frame.
+
 
 ## Prediction:
 
@@ -33,5 +35,20 @@ We have compared the two approaches for accuracy and prediction, and have gone w
 ## Results:
 
 We achieved an accuracy of 67% with a percentage of stock correctly predicted as 85% with the linear regression algorithm. We were also able to achieve 61% accuracy and 64% percentage of stocks predicted correctly. Since the linear regression model approach was more accurate and identified a higher percentage of the stocks correctly, we have identified linear regression model as the final model to predict stocks using the sentiment of tweets.
+
+## Files:
+
+In the Github, we have the following files need to be downloaded:
+
+requirements.txt -- specifies which packages to be installed and imported
+Tweet stream.xlsx -- which contains only apple tweets 
+google-stream1.xlsx -- which contained only google tweets 
+NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt -- the NRC Emotion Lexicon used to do sentiment analysis 
+final_data.csv -- final data set we have comed up with after data cleaning and combination
+Linear Regression.png -- linear regression mode output image
+Random Forest.png -- random forest model output image
+Project code-data tables and preprocessing.ipynb -- processed raw data to come up with final dataset 
+Data Visualization Code.ipynb -- graphs we have drawn and codes
+Regression_Machine_learning_on_sentiment.ipynb -- Machine Learning code
 
 
