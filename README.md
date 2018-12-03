@@ -34,7 +34,7 @@ We have compared the two approaches for accuracy and prediction, and have gone w
 
 ## Results:
 
-We achieved an accuracy of 67% with a percentage of stock correctly predicted as 85% with the linear regression algorithm. We were also able to achieve 61% accuracy and 64% percentage of stocks predicted correctly. Since the linear regression model approach was more accurate and identified a higher percentage of the stocks correctly, we have identified linear regression model as the final model to predict stocks using the sentiment of tweets.
+We achieved an accuracy of 67% with a percentage of stock correctly predicted as 85% with the linear regression algorithm. We were also able to achieve 70% accuracy and 78% percentage of stocks predicted correctly. Since the linear regression model approach was more accurate and identified a higher percentage of the stocks correctly, we have identified linear regression model as the final model to predict stocks using the sentiment of tweets.
 
 ## Files:
 
