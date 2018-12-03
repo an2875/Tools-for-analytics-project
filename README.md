@@ -24,7 +24,7 @@ We have uploaded the data into a pandas dataframe, cleaned the data, removed NaN
 ## Prediction:
 
 We have used linear regression and random forest approaches to predict the stock prices for the following day. 
-![Linear%20Regression.png](attachment:Linear%20Regression.png)
+![Linear%20Regression.png](https://github.com/dipanshugurwara/Tools-for-analytics-project/blob/master/Random%20Forest.png)
 Linear regression						
 ![Random%20Forest.png](attachment:Random%20Forest.png)
 We have compared the two approaches for accuracy and prediction, and have gone with the approach that is more accurate.
