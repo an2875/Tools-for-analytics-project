@@ -40,15 +40,15 @@ We achieved an accuracy of 67% with a percentage of stock correctly predicted as
 
 In the Github, we have the following files need to be downloaded:
 
-requirements.txt -- specifies which packages to be installed and imported
-Tweet stream.xlsx -- which contains only apple tweets 
-google-stream1.xlsx -- which contained only google tweets 
-NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt -- the NRC Emotion Lexicon used to do sentiment analysis 
-final_data.csv -- final data set we have comed up with after data cleaning and combination
-Linear Regression.png -- linear regression mode output image
-Random Forest.png -- random forest model output image
-Project code-data tables and preprocessing.ipynb -- processed raw data to come up with final dataset 
-Data Visualization Code.ipynb -- graphs we have drawn and codes
-Regression_Machine_learning_on_sentiment.ipynb -- Machine Learning code
+- requirements.txt -- <font color=blue>specifies which packages to be installed and imported</font>
+- Tweet stream.xlsx -- <font color=blue> which contains only apple tweets</font>
+- google-stream1.xlsx -- <font color=blue>which contained only google tweets</font>
+- NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt -- <font color=blue>the NRC Emotion Lexicon used to do sentiment analysis</font> 
+- final_data.csv -- <font color=blue>final data set we have comed up with after data cleaning and combination </font>
+- Linear Regression.png -- <font color=blue>linear regression mode output image</font>
+- Random Forest.png -- <font color=blue>random forest model output image</font>
+- Project code-data tables and preprocessing.ipynb -- <font color=blue>processed raw data to come up with final dataset</font>
+- Data Visualization Code.ipynb -- <font color=blue>graphs we have drawn and codes </font>
+- Regression_Machine_learning_on_sentiment.ipynb -- <font color=blue>Machine Learning code</font>
 
 
