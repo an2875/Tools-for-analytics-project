@@ -48,7 +48,8 @@ In the Github, we have the following files need to be downloaded:
 - Linear Regression.png -- linear regression mode output image
 - Random Forest.png -- random forest model output image
 - Project code-data tables and preprocessing.ipynb -- processed raw data to come up with final dataset
-- Data Visualization Code.ipynb -- graphs we have drawn and codes 
+- Data Visualization Code.ipynb -- graphs codes 
+- Data Visualizaiton Results.pdf -- graphs we have drawn and simple analysis
 - Regression_Machine_learning_on_sentiment.ipynb -- Machine Learning code
 
 
