@@ -10,7 +10,7 @@
 
 By utilizing sentiment analysis to predict stocks prices with respect to twitter feeds. We mainly focus on the technology industry as it’s highly correlated with market fluctuations and hence we pick up Google and Apple as our research objectives to implement our model. We used regression and random forest methods to explore the relationships between tweets and stock prices. 
 
-Regarding the stock prices, we used data visualization tools (plotly) to draw several graphs to present the price change of the stock as time goes by. The sentiment analysis generated a dataframe with 9 columns: 8 emotions and the percentage change in stock prices, with date as index numbers. We also drew graphs to present each emotion sentiment with respect to percent change in stocks.
+Regarding the stock prices, we used data visualization tools (plotly) to draw several graphs to present the price change of the stock as time goes by. The sentiment analysis generated a dataframe with 9 columns: 8 emotions and the percentage change in stock prices, with date as index numbers. We also drew graphs to present each emotion sentiment with respect to date. 
 
 
 ## Data Sources:
