@@ -16,7 +16,7 @@ Regarding the stock prices, we used data visualization tools (plotly) to draw se
 ## Data Sources:
 
 We initially were planning to use tweepy package, but that does not provide the historical tweets and requires a twitter developer enterprise account. We went ahead with the historical tweets available of NASDAQ stocks like apple and google. We have used these two data files. We also obtained historical stock prices from yahoo finance using web scraping tools. 
-For the stock market prices of the stocks, we have used the yahoo finance script and ran that on python for the required dates.
+
 
 ## Data Preprocessing:
 
